@@ -11,27 +11,35 @@
 </h4>
 
 #### 📫 HOW TO REACH ME:
+
 <img src="https://img.icons8.com/color/48/000000/internet.png" width="40" href="https://www.automatedtestingwithtuyen.com/"/> &nbsp;
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40" href="https://discord.gg/trongtuyen96"/>
 <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" href="https://www.linkedin.com/in/trongtuyen96"/>
-<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" href="https://www.facebook.com/tuyen.trong.3"/>
+<img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" href="https://www.facebook.com/tuyen.trong.3"/>
 <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" href="https://www.instagram.com/trongtuyen96"/>
-<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" href="mailto:trongtuyen96e@gmail.com"/>
+<img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" href="mailto:trongtuyen96e@gmail.com"/>
   
 #### 👨🏻‍💻 LANGUAGES AND TOOLS:
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo"></code>
+<code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo"></code>
+<code><img src="https://img.icons8.com/color/48/000000/javascript"></code>
+<code><img src="https://img.icons8.com/color/48/000000/kotlin"></code>
+<code><img src="https://img.icons8.com/color/48/000000/python"></code>
+<code><img src="https://img.icons8.com/color/48/000000/html-5"></code>
+<code><img src="https://img.icons8.com/color/48/000000/css3"></code>
+
+<code><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019"></code>
+<code><img src="https://img.icons8.com/color/48/000000/intellij-idea"></code>
+<code><img src="https://img.icons8.com/color/48/000000/git"></code>
+<code><img src="https://img.icons8.com/color/48/000000/bitbucket"></code>
+<code><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server"></code>
+<code><img src="https://img.icons8.com/color/48/000000/mongodb"></code>
+<code><img src="https://img.icons8.com/color/48/000000/nodejs"></code>
+
+<code><img src="https://img.icons8.com/color/48/000000/selenium"></code>
+<code><img height="48" style="padding: 20px"  src="https://github.com/trongtuyen96/trongtuyen96/blob/8f475bacd3519dc8ffd1d0469195bbc79c4db24e/images/cypress-io.png"></code>
+<code><img height="48" style="padding: 10px" src="https://github.com/trongtuyen96/trongtuyen96/blob/8f475bacd3519dc8ffd1d0469195bbc79c4db24e/images/rest-assured.png"></code>
+<code><img height="48" style="padding: 10px"  src="https://github.com/trongtuyen96/trongtuyen96/blob/8f475bacd3519dc8ffd1d0469195bbc79c4db24e/images/postman.png"></code>
 
 #### 📕 LATEST BLOG POSTS:
 
