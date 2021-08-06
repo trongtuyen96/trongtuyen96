@@ -7,7 +7,7 @@
 
 <h4 align="center">
   <p>Love My Work?</p>
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" href="buymeacoffee.com/dFYRDo4jz" target="_blank">
+  <a href="https://buymeacoffee.com/dFYRDo4jz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 </h4>
 
 #### 📫 HOW TO REACH ME:
