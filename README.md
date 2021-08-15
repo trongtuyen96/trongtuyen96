@@ -43,13 +43,13 @@
 
 #### 📕 LATEST BLOG POSTS:
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOGPOSTS:START -->
 - [Challenges in API Testing](https://www.automatedtestingwithtuyen.com/post/challenges-in-api-testing)
 - [HTTP Status Codes](https://www.automatedtestingwithtuyen.com/post/http-status-codes)
 - [Overriding vs Overloading](https://www.automatedtestingwithtuyen.com/post/overriding-vs-overloading)
 - [Selenium Webdriver - How it works](https://www.automatedtestingwithtuyen.com/post/selenium-webdriver-how-it-works)
 - [S.O.L.I.D - The First 5 Principles of Object-Oriented Programing](https://www.automatedtestingwithtuyen.com/post/s-o-l-i-d-the-first-5-principles-of-object-oriented-programing)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOGPOSTS:END -->
 
 ➡️ [more blog posts...](https://automatedtestingwithtuyen.com)
 
