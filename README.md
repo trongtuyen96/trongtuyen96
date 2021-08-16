@@ -51,7 +51,12 @@
 - [Challenges in API Testing](https://www.automatedtestingwithtuyen.com/post/challenges-in-api-testing)
 - [HTTP Status Codes](https://www.automatedtestingwithtuyen.com/post/http-status-codes)
 - [Overriding vs Overloading](https://www.automatedtestingwithtuyen.com/post/overriding-vs-overloading)
-- [Selenium Webdriver - How it works](https://www.automatedtestingwithtuyen.com/post/selenium-webdriver-how-it-works)
+- [Selenium WebDriver - How it works](https://www.automatedtestingwithtuyen.com/post/selenium-webdriver-how-it-works)
+- [Hybrid Testing Framework](https://www.automatedtestingwithtuyen.com/post/hybrid-testing-framework)
+- [Keyword-Driven Testing Framework](https://www.automatedtestingwithtuyen.com/post/keyword-driven-testing-framework)
+- [Data-Driven Testing Framework](https://www.automatedtestingwithtuyen.com/post/data-driven-testing-framework)
+- [Selenium Testing Framework](https://www.automatedtestingwithtuyen.com/post/selenium-testing-framework)
+- [Wait for an expected function condition in Selenium](https://www.automatedtestingwithtuyen.com/post/wait-for-an-expected-function-condition-in-selenium)
 - [S.O.L.I.D - The First 5 Principles of Object-Oriented Programing](https://www.automatedtestingwithtuyen.com/post/s-o-l-i-d-the-first-5-principles-of-object-oriented-programing)
 <!-- BLOGPOSTS:END -->
 
