@@ -48,6 +48,7 @@
 #### 📕 LATEST BLOG POSTS:
 
 <!-- BLOGPOSTS:START -->
+- [k6 - Performance Testing Tools](https://www.automatedtestingwithtuyen.com/post/k6-load-testing-tools)
 - [Nail Your Java Interview](https://www.automatedtestingwithtuyen.com/post/nail-your-java-interview)
 - [Challenges in API Testing](https://www.automatedtestingwithtuyen.com/post/challenges-in-api-testing)
 - [HTTP Status Codes](https://www.automatedtestingwithtuyen.com/post/http-status-codes)
@@ -57,7 +58,6 @@
 - [Keyword-Driven Testing Framework](https://www.automatedtestingwithtuyen.com/post/keyword-driven-testing-framework)
 - [Data-Driven Testing Framework](https://www.automatedtestingwithtuyen.com/post/data-driven-testing-framework)
 - [Selenium Testing Framework](https://www.automatedtestingwithtuyen.com/post/selenium-testing-framework)
-- [Wait for an expected function condition in Selenium](https://www.automatedtestingwithtuyen.com/post/wait-for-an-expected-function-condition-in-selenium)
 <!-- BLOGPOSTS:END -->
 
 ➡️ [more blog posts...](https://automatedtestingwithtuyen.com)
