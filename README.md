@@ -7,21 +7,19 @@
 
 <h4 align="center">
   <p>Love My Work?</p>
-  <a href="https://paypal.me/trongtuyen96" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPalpay" height="34" ></a>
-  <a href="https://buymeacoffee.com/trongtuyen96" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="34" ></a>
-  <a href="https://www.patreon.com/trongtuyen96" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" height="34" ></a>
-<!--   <a href="https://buymeacoffee.com/trongtuyen96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" ></a>
-  <a href="https://www.patreon.com/trongtuyen96" target="_blank"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dtrongtuyen96%26type%3Dpledges&style=for-the-badge" alt="Patreon" height="40" ></a> -->
+  <a href="https://paypal.me/trongtuyen96"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPalpay" height="34" ></a>
+  <a href="https://buymeacoffee.com/trongtuyen96"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="34" ></a>
+  <a href="https://www.patreon.com/trongtuyen96"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" height="34" ></a>
 </h4>
 
 #### 📫 HOW TO REACH ME:
 
-<img src="https://img.icons8.com/color/48/000000/internet.png" width="40" href="https://www.automatedtestingwithtuyen.com/"/> &nbsp;
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40" href="https://discord.gg/trongtuyen96"/>
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" href="https://www.linkedin.com/in/trongtuyen96"/>
-<img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" href="https://www.facebook.com/tuyen.trong.3"/>
-<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" href="https://www.instagram.com/trongtuyen96"/>
-<img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" href="mailto:trongtuyen96e@gmail.com"/>
+<a href="https://www.automatedtestingwithtuyen.com/"><img src="https://img.icons8.com/color/48/000000/internet.png" width="40" /></a>
+<a href="https://discord.gg/trongtuyen96"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40" /></a>
+<a href="https://www.linkedin.com/in/trongtuyen96"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
+<a href="https://www.facebook.com/ntrongtuyen96"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" /></a>
+<a href="https://www.instagram.com/trongtuyen96"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" /></a>
+<a href="mailto:trongtuyen96e@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" /></a>
   
 #### 👨🏻‍💻 LANGUAGES AND TOOLS:
 <code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo"></code>
