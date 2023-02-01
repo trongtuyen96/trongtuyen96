@@ -38,7 +38,7 @@
 <code><img src="https://img.icons8.com/color/48/000000/mongodb"></code>
 <code><img src="https://img.icons8.com/color/48/000000/nodejs"></code>
 
-<code><img src="https://img.icons8.com/color/48/000000/selenium"></code>
+<code><img src="https://img.icons8.com/color/48/000000/selenium-test-automation"></code>
 <code><img height="48" style="padding: 20px"  src="https://github.com/trongtuyen96/trongtuyen96/blob/8f475bacd3519dc8ffd1d0469195bbc79c4db24e/images/cypress-io.png"></code>
 <code><img height="48" style="padding: 10px" src="https://github.com/trongtuyen96/trongtuyen96/blob/8f475bacd3519dc8ffd1d0469195bbc79c4db24e/images/rest-assured.png"></code>
 <code><img height="48" style="padding: 10px"  src="https://github.com/trongtuyen96/trongtuyen96/blob/8f475bacd3519dc8ffd1d0469195bbc79c4db24e/images/postman.png"></code>
