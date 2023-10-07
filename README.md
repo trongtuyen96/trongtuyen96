@@ -1,8 +1,12 @@
 <img src="https://github.com/trongtuyen96/trongtuyen96/blob/7edff36e2fdebfd0c6d5042776f55a42dce980fe/images/ATWT_background.PNG" href="https://www.automatedtestingwithtuyen.com"/>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you. I'm <a href="https://www.automatedtestingwithtuyen.com">Tuyen Nguyen</a></h2>
 
-<p>I'm currently an automation test engineer. I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. I found myself happy while making cool projects, hope you can find yourself anywhere through my repos. Let's code for good.
+<h2> 
+  Hey, nice to see you. I'm <a href="https://www.automatedtestingwithtuyen.com">Tuyen Nguyen</a>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"/>
+</h2>
+
+<p>I'm currently a senior automation test engineer. I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. I found myself happy while making cool projects, hope you can find yourself anywhere through my repos. Let's code for good.
 </p>
 
 <h4 align="center">
